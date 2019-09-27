@@ -3,3 +3,4 @@ Hello world!
 Good bye!
 add new line master branch
 add line A15
+Good morning! (from branch add-feature3)
